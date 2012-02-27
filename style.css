@@ -1,0 +1,21 @@
+#GrandContainer {}
+
+#Nav {background: url(img/backgrTop.png) no-repeat; width: 1016px; height: 43px;}
+
+#Main {background: url(img/backgrMain.png) repeat-y; width: 1016px; margin: -1px 0 0 0;}
+
+#Footer {background: url(img/backgrBot.png) no-repeat; width: 1016px; height: 27px;}
+
+.ButtonNachaloHover{background: url(img/NachaloHover.png) no-repeat; width: 79px; height: 26px; margin: -21px 0 0 0; display:none;}
+.ButtonNachalo{margin: 15px 0 0 0; width:79px;}
+
+.ButtonNachaloHover{background: url(img/NachaloHover.png) no-repeat; width: 79px; height: 26px; margin: -21px 0 0 0;}
+.ButtonAbout{margin: 15px 0 0 0; width:79px;}
+
+.Button {float: left; margin: 0 0 0 25px;}
+.Button a:link{color: #4a4a4a; text-decoration: none; font-family: Verdana; font-size: 12pt;}
+.Button a:visited{color: #4a4a4a; text-decoration: none; font-family: Verdana; font-size: 12pt;}
+.Button a:hover{color: #01408e; text-decoration: underline; font-family: Verdana; font-size: 12pt;}
+
+
+.clearer {clear: both;}
